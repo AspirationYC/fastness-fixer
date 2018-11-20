@@ -551,14 +551,10 @@ ol > li::before {
   content: none;
 }
 
-/* stylelint-disable no-descending-specificity */
-
 .link-box {
   display: block;
   text-decoration: none;
 }
-
-/* stylelint-disable no-descending-specificity */
 
 button,
 .btn {
